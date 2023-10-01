@@ -1,4 +1,4 @@
 {"Version":"1.0.5",
-"RVersion":"10",
-"updateUrl":"https://github.com/DMCDN/assets/releases/download/1/lhuGUIsetup.exe",
+"RVersion":"11",
+"updateUrl":"https://github.com/DMCDN/assets/releases/download/1/Main.dist.zip",
 "updateInfo":"Info"}
