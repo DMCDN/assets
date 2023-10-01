@@ -1,4 +1,4 @@
-{"Version":"1.0.5",
+{"Version":"1.0.2",
 "RVersion":"11",
 "updateUrl":"https://github.com/DMCDN/assets/releases/download/1/Main.dist.zip",
 "updateInfo":"Info"}
