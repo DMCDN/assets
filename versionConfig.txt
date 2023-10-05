@@ -3,6 +3,5 @@
 "updateUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.zip",
 "resUrl":"https://github.com/DMCDN/assets/releases/download/1/res.pdb",
 "resDiffUrl":"https://github.com/DMCDN/assets/releases/download/1/res.pdiff",
-"updateInfo":"Info",
-
+"updateInfo":"Info"
 }
