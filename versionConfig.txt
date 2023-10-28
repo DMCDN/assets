@@ -1,5 +1,5 @@
 {"Version":"1.0.3",
-"RVersion":"6",
+"RVersion":"7",
 "updateUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.zip",
 "resUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.res",
 "resDiffUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
