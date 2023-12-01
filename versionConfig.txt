@@ -1,5 +1,5 @@
 {"Version":"1.0.3",
-"RVersion":"16",
+"RVersion":"17",
 "updateUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.zip",
 "resUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.res",
 "resDiffUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
@@ -9,6 +9,8 @@
               "13":"1313131313",
               "14":"[修復][勞作教育_報名list]當前人數為0時,會報錯轉換錯誤的問題",
               "15":"[adj][勞作教育_報名表]移除下方棄用的textbox",
-              "16":"[修復][MainView]登出後再次登入,UserID的顏色會消失的問題"}
+              "16":"[修復][MainView]登出後再次登入,UserID的顏色會消失的問題",
+"17":"回檔16"
+}
 }
 
