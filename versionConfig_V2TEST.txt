@@ -1,0 +1,6 @@
+{"Version":"2.0.0",
+"RVersion":"1",
+"updateUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.zip",
+"resUrl":"",
+"resDiffUrl":"",
+"updateInfo":"Info"}
