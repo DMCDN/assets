@@ -1,9 +1,17 @@
-{"Version":"1.0.4",
-"RVersion":"1",
-"updateUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.zip",
-"resUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.res",
-"resDiffUrl":"https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
-"updateInfo":{"1":"[40222][test][ScoreQuery]新增即時提取/本地SQL查詢選項"
-              }
+{
+  "Version": "1.0.3",
+  "RVersion": "17",
+  "updateUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.zip",
+  "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
+  "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
+  "updateInfo": {
+    "10": "10",
+    "11": "11",
+    "12": "1212121212",
+    "13": "1313131313",
+    "14": "[修復][勞作教育_報名list]當前人數為0時,會報錯轉換錯誤的問題",
+    "15": "[adj][勞作教育_報名表]移除下方棄用的textbox",
+    "16": "[修復][MainView]登出後再次登入,UserID的顏色會消失的問題",
+    "17": "[test][ScoreQuery]新增即時提取/本地SQL查詢選項"
+  }
 }
-
