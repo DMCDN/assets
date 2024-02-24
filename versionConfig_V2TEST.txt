@@ -1,9 +1,9 @@
 {
   "Version": "1.0.0",
   "RVersion": "1",
-  "updateUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.zip",
-  "resUrl": "https://github.com/DMCDN/assets/releases/download/EIQ/patch.res",
-  "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/EIQ/patch.resdiff",
+  "updateUrl": "https://github.com/DMCDN/assets/releases/download/dev/patch.zip",
+  "resUrl": "https://github.com/DMCDN/assets/releases/download/dev/patch.res",
+  "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/dev/patch.resdiff",
   "updateInfo": {
   }
 }
