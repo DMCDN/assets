@@ -14,6 +14,6 @@
     "16": "[修復][MainView]登出後再次登入,UserID的顏色會消失的問題",
     "17": "[ScoreQuery]新增即時提取/本地SQL查詢選項",
     "18": "[testtrunk][update]加密&壓縮算法更動",
-    "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題",
+    "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題"
   }
 }
