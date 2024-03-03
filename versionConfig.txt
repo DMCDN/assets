@@ -15,6 +15,7 @@
     "17": "[ScoreQuery]新增即時提取/本地SQL查詢選項",
     "18": "[testtrunk][update]加密&壓縮算法更動",
     "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題",
-    "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(現統一為False)\n[ServiceQuery]新增報名表"
+    "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(現統一為False)\n[ServiceQuery]新增報名表",
+    "21": "[Graduation]fix passed args"
   }
 }
