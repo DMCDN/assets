@@ -1,6 +1,6 @@
 {
   "Version": "1.0.3",
-  "RVersion": "19",
+  "RVersion": "20",
   "updateUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.zip",
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
@@ -14,6 +14,7 @@
     "16": "[修復][MainView]登出後再次登入,UserID的顏色會消失的問題",
     "17": "[ScoreQuery]新增即時提取/本地SQL查詢選項",
     "18": "[testtrunk][update]加密&壓縮算法更動",
-    "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題"
+    "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題",
+    "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(原預設值前端False,後端True 現統一為False)\n[ServiceQuery]新增報名表"
   }
 }
