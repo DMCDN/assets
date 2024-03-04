@@ -1,6 +1,6 @@
 {
   "Version": "1.0.3",
-  "RVersion": "21",
+  "RVersion": "22",
   "updateUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.zip",
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
@@ -16,6 +16,7 @@
     "18": "[testtrunk][update]加密&壓縮算法更動",
     "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題",
     "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(現統一為False)\n[ServiceQuery]新增報名表",
-    "21": "[修復][Graduation]fix passed args"
+    "21": "[修復][Graduation]fix passed args",
+    "22": "[test][LaoZuo_ApplyReserve]新增勞作活動自動報名器(預設每10分鐘查詢&嘗試報名一次已滿且已預定的活動)"
   }
 }
