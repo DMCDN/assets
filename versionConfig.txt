@@ -5,9 +5,6 @@
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
   "updateInfo": {
-    "10": "10",
-    "11": "11",
-    "12": "1212121212",
     "13": "1313131313",
     "14": "[修復][勞作教育_報名list]當前人數為0時,會報錯轉換錯誤的問題",
     "15": "[勞作教育_報名表]移除下方棄用的textbox",
@@ -17,6 +14,7 @@
     "19": "[Graduation]增加懸浮提示\n[SpeechEvent]修復只會抓出首欄條件的問題",
     "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(現統一為False)\n[ServiceQuery]新增報名表",
     "21": "[修復][Graduation]fix passed args",
-    "22": "[test][LaoZuo_ApplyReserve]新增勞作活動自動報名器(預設每10分鐘查詢&嘗試報名 已滿且已預定的活動)"
+    "22": "[test][LaoZuo_ApplyReserve]新增勞作活動自動報名器(預設每10分鐘查詢&嘗試報名 已滿且已預定的活動)",
+    "23": "[test][ScoreQuery_GlobalStdData]新增 查詢各科通過率(紀錄&抓取所有人的各科成績)\n[update]解壓流程將在下載完後立即執行,而不是等待所有文件都下載完畢\n[WebServer]待定"
   }
 }
