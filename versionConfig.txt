@@ -15,6 +15,7 @@
     "20": "[修復][勞作教育_報名表]修正人數篩選器在初始狀態會有不同步的問題(現統一為False)\n[ServiceQuery]新增報名表",
     "21": "[修復][Graduation]fix passed args",
     "22": "[test][LaoZuo_ApplyReserve]新增勞作活動自動報名器(預設每10分鐘查詢&嘗試報名 已滿且已預定的活動)",
-    "23": "[test][ScoreQuery_GlobalStdData]新增 查詢各科通過率(紀錄&抓取所有人的各科成績)\n[update]解壓流程將在下載完後立即執行,而不是等待所有文件都下載完畢\n[WebServer]待定"
+    "23": "[test][ScoreQuery_GlobalStdData]新增 查詢各科通過率(紀錄&抓取所有人的各科成績)\n[update]解壓流程將在下載完後立即執行,而不是等待所有文件都下載完畢\n[WebServer]待定",
+    "24": "[修復][ScoreQuery]修正不及格分類判定問題\n修正修課資料的科目分數檢測,若含徹選或其他非常規狀態時會卡死的問題\n[修復][LaoZuo_ApplyReserve]修復剩餘時間進度條"
   }
 }
