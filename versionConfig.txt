@@ -1,6 +1,6 @@
 {
   "Version": "1.0.3",
-  "RVersion": "25",
+  "RVersion": "26",
   "updateUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.zip",
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
@@ -17,6 +17,7 @@
     "22": "[test][LaoZuo_ApplyReserve]新增勞作活動自動報名器(預設每10分鐘查詢&嘗試報名 已滿且已預定的活動)",
     "23": "[test][ScoreQuery_GlobalStdData]新增 查詢各科通過率(紀錄&抓取所有人的各科成績)\n[update]解壓流程將在下載完後立即執行,而不是等待所有文件都下載完畢\n[WebServer]待定",
     "24": "[修復][ScoreQuery]修正不及格分類判定問題\n修正修課資料的科目分數檢測,若含徹選或其他非常規狀態時會卡死的問題\n[修復][LaoZuo_ApplyReserve]修復剩餘時間進度條",
-    "25": "[新增][Activation]新增序號驗證"
+    "25": "[新增][Activation]新增序號驗證",
+    "26": "[Activation]資料表重構,優化彈窗UI"
   }
 }
