@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.3",
-  "RVersion": "26",
+  "Version": "1.2.0",
+  "RVersion": "1",
   "updateUrl": "https://drive.google.com/file/d/1fohevCqa5lLqWAoLsNIvW7JbHRdnf-GC/view?usp=drive_link",
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
