@@ -1,5 +1,4 @@
 {
   "Global_StdDataURL": "https://LWork.pythonanywhere.com/api/Global_StdData",
-  "ActivationStatusURL": "https://LWork.pythonanywhere.com/api/ActivationStatus",
-  "RVersion": "1"
+  "ActivationStatusURL": "https://LWork.pythonanywhere.com/api/ActivationStatus"
 }
