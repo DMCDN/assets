@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.0",
-  "RVersion": "26",
+  "Version": "1.2.1",
+  "RVersion": "27",
   "updateUrl": "https://drive.google.com/file/d/1fohevCqa5lLqWAoLsNIvW7JbHRdnf-GC/view?usp=drive_link",
   "resUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/DMCDN/assets/releases/download/1/patch.resdiff",
@@ -18,6 +18,7 @@
     "23": "[test][ScoreQuery_GlobalStdData]新增 查詢各科通過率(紀錄&抓取所有人的各科成績)\n[update]解壓流程將在下載完後立即執行,而不是等待所有文件都下載完畢\n[WebServer]待定",
     "24": "[修復][ScoreQuery]修正不及格分類判定問題\n修正修課資料的科目分數檢測,若含徹選或其他非常規狀態時會卡死的問題\n[修復][LaoZuo_ApplyReserve]修復剩餘時間進度條",
     "25": "[新增][Activation]新增序號驗證",
-    "26": "[Activation]資料表重構,優化彈窗UI"
+    "26": "[Activation]資料表重構,優化彈窗UI",
+    "27": "移除Debug Console"
   }
 }
