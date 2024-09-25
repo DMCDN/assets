@@ -20,6 +20,6 @@
     "25": "[新增][Activation]新增序號驗證",
     "26": "[Activation]優化彈窗UI",
     "27": "移除Console",
-    "33": "AWSTEST待補充"
+    "33": "[修復]校網域名更替(www.lhu.edu.tw -> sys.lhu.edu.tw)\n[test]AWS上雲測試"
   }
 }
