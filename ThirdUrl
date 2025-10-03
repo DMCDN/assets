@@ -1,4 +1,4 @@
 {
-  "Global_StdDataURL": "http://ec2-52-77-251-105.ap-southeast-1.compute.amazonaws.com:8001/api/Global_StdData",
-  "ActivationStatusURL": "http://ec2-52-77-251-105.ap-southeast-1.compute.amazonaws.com:8001/api/ActivationStatus"
+  "Global_StdDataURL": "https://lwork.pythonanywhere.com/api/Global_StdData",
+  "ActivationStatusURL": "https://lwork.pythonanywhere.com/api/ActivationStatus"
 }
